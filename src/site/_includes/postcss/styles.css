@@ -39,14 +39,8 @@ body {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 90%;
+  width: 70vw;
   text-align: left;
-  @media (min-width: $mid) {
-    width: 600px;
-  };
-  @media (min-width: $wide) {
-    width: 700px;
-  };
 }
 
 
